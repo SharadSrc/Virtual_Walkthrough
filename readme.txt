@@ -25,13 +25,12 @@ How To compile:
 c++ -lglut sources/main.cpp or make 
 
 Keys:
---------------------------------------------------------
 
-1)   
+1) w for upward movement
 2) A for <----- movement
-1) Arrow keys   
-3) Page UP and Down 
-4) L , B for illuminations
+3) Arrow keys   
+4) Page UP and Down 
+5) L , B for illuminations
 
 
 
